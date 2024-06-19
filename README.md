@@ -1,6 +1,5 @@
 # 💫 About Me
 ## Hi👋, my name is Thang.
-<br>
 <br>I'm currently studying at VNU_HCMC - International University, majoring in Network Engineering. 
 <br>I'm also starting my journey and learnings about UX/UI Design and Data Analytics.
 <br>I'm using GitHub for school and my own projects only.
